@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/italo-antunes-b24784b5)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/italoantunes)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:italo_k3@hotmail.com)
-[![Location](https://img.shields.io/badge/São_Bernardo_do_Campo-SP-009C3B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/São_Bernardo_do_Campo-SP-009C3B?style=for-the-badge)](#)
 
 </div>
 
@@ -15,109 +15,149 @@
 
 ## Sobre mim
 
-Profissional de **Cyber Security** com mais de **6 anos de experiência** em segurança de infraestrutura, cloud e gestão de vulnerabilidades, atuando em ambientes híbridos e corporativos com foco em **fortalecimento da postura de segurança** e redução de riscos.
+Profissional de **Cyber Security** com mais de **6 anos de experiência** em segurança de infraestrutura, cloud e gestão de vulnerabilidades — atuando em ambientes híbridos e corporativos com foco em **fortalecimento da postura de segurança** e redução de riscos.
 
-Experiência prática em **CSPM (Cloud Security Posture Management)**, **Network Security**, **Vulnerability Management** e automação de processos — cobrindo desde ambientes on-premises até arquiteturas cloud-native com **AWS, GCP**, containers (ECS/EKS) e serverless.
-
-Passagem por operações de **SOC**, **BAS (Breach and Attack Simulation)** e **Forense Digital**, com habilidade em comunicar riscos e indicadores de segurança para diferentes níveis hierárquicos, incluindo diretoria.
+Experiência prática em **CSPM**, **Network Security**, **Vulnerability Management** e automação de processos, cobrindo desde ambientes on-premises até arquiteturas cloud-native com **AWS, Azure e GCP**, containers (ECS/EKS) e serverless. Passagem por **SOC**, **BAS (Breach and Attack Simulation)** e **Forense Digital**, com comunicação de riscos a diferentes níveis hierárquicos, incluindo diretoria.
 
 ---
 
-## 🔐 Cyber Security
+## 🔐 Cyber Security — Áreas de Atuação
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                       ÁREAS DE ATUAÇÃO                             │
-├──────────────────────┬──────────────────────┬───────────────────────┤
-│  Postura de          │  Vulnerability       │  Cloud Security       │
-│  Segurança           │  Management          │  (CSPM)               │
-│                      │                      │                       │
-│  Network Security    │  Nessus · Qualys     │  AWS Security Hub     │
-│  Firewall Review     │  Prisma Cloud        │  GCP SCC              │
-│  Security Groups     │  Inspector AWS       │  GuardDuty            │
-│  Subnets / Rotas     │  Acunetix            │  CloudTrail           │
-├──────────────────────┼──────────────────────┼───────────────────────┤
-│  SOC / IR            │  Segurança           │  Forense Digital      │
-│                      │  Ofensiva            │                       │
-│  Splunk · EDR · XDR  │  BAS: Cymulate       │  Investigação         │
-│  DLP · IDS/IPS       │  SafeBreach · Picus  │  Cibernética          │
-│  GuardDuty           │  MITRE ATT&CK TTPs   │  Autopsy · Linux      │
-│  Incident Response   │  Web / Infra Assess. │  Forensics Distros    │
-└──────────────────────┴──────────────────────┴───────────────────────┘
-```
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 🛡️ Postura de Segurança
+- Network Security
+- Firewall & Security Groups Review
+- Subnets e Rotas Permissivas
+- Risk Management
+- Third-Party Risk (BitSight)
+- Bug Bounty
+- Indicadores Executivos (KPIs/KRIs)
+
+</td>
+<td valign="top" width="33%">
+
+### ☁️ Cloud Security & CSPM
+**AWS *(certificado)***
+- Security Hub · GuardDuty
+- Inspector · CloudTrail
+- Lambda · ECS · EKS · S3
+
+**GCP**
+- Security Command Center
+
+**Azure**
+- Microsoft Defender for Cloud
+
+</td>
+<td valign="top" width="33%">
+
+### 🔍 Vulnerability Management
+**Scanning & Assessment**
+- Nessus · Qualys · Tenable.SC
+- Prisma Cloud · Inspector AWS
+- Acunetix · Veracode
+
+**Escopos**
+- Infraestrutura · Web · API
+- Mobile · Containers · Serverless
+- Ambientes híbridos on-prem/cloud
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+### 🔴 Segurança Ofensiva
+**BAS — Breach and Attack Simulation**
+- Cymulate · SafeBreach · Picus
+- Validação de controles vs TTPs
+- MITRE ATT&CK mapping
+
+**Assessment**
+- Web Application Security
+- API Exploitation
+- Infrastructure Security
+
+</td>
+<td valign="top" width="33%">
+
+### 🔵 SOC / Incident Response
+**Monitoramento**
+- Splunk (SIEM) · EDR · XDR
+- DLP · IDS/IPS · GuardDuty
+
+**Resposta & Forense**
+- Incident Response
+- Forense Digital
+- Investigação Cibernética
+- Autopsy · Linux Forensics
+
+</td>
+<td valign="top" width="33%">
+
+### 🤖 Automação & Infra
+**Linguagens & Integração**
+- Python · REST API integrations
+
+**Serverless AWS**
+- Lambda · S3 · EventBridge · SNS
+
+**Containers**
+- Docker · ECS · EKS
+- Container Security Scanning
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Áreas de Atuação
+## 🔄 DevSecOps — Pipeline de Segurança
 
-| Domínio | Especialidades |
-|---|---|
-| 🛡️ **Postura de Segurança** | CSPM · Network Security · Security Groups · Firewall Review · Risk Management |
-| 🔍 **Vulnerability Management** | Nessus · Qualys · Prisma Cloud · Inspector AWS · Acunetix · Priorização (CVSS/MAPI) |
-| ☁️ **Cloud Security Multi-Cloud** | AWS *(certificado)* · GCP · Security Hub · GuardDuty · GCP Security Command Center |
-| 🔴 **Segurança Ofensiva** | BAS (Cymulate, SafeBreach, Picus) · MITRE ATT&CK · Web & Infra Assessment |
-| 🔵 **SOC / Incident Response** | Splunk · EDR · XDR · DLP · IDS/IPS · Amazon GuardDuty · Forense Digital |
-| 🤖 **Automação** | Python · API integrations · Serverless (Lambda, S3, EventBridge, SNS) |
-| 📋 **GRC / Compliance** | BACEN · ISO 27001 · NIST CSF · CIS Controls · OWASP Top 10 · Third-Party Risk |
+> Integração de segurança em todo o ciclo de desenvolvimento — do código ao runtime.
 
----
-
-## Certificações
-
-![AWS Security Specialty](https://img.shields.io/badge/AWS_Security–Specialty-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![CCSE](https://img.shields.io/badge/CCSE–EC--Council-C8102E?style=flat-square&logoColor=white)
-![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=flat-square&logo=google&logoColor=white)
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking–EXIN-003087?style=flat-square&logoColor=white)
-![Perícia Forense](https://img.shields.io/badge/Perícia_Forense–EC--Council-C8102E?style=flat-square&logoColor=white)
-![Tenable](https://img.shields.io/badge/Tenable.SC–Tenable-00B4E0?style=flat-square&logoColor=white)
+| Etapa | Especialidade | Ferramentas |
+|---|---|---|
+| 🖥️ **IDE** | Análise em tempo real | SonarLint · Snyk IDE |
+| 🔍 **SAST** — Static Application Security Testing | Análise de código fonte | Semgrep · SonarQube · Veracode |
+| 📦 **SCA + SBOM** — Software Composition Analysis | Dependências e bibliotecas | Trivy · Snyk · Syft |
+| 💥 **DAST** — Dynamic Application Security Testing | App em execução (OWASP Top 10) | OWASP ZAP · Burp Suite |
+| 🏗️ **IaC** — Infrastructure as Code Security | Terraform · K8s · Helm | Checkov · tfsec |
+| 🐳 **Container Security** | Imagens e runtime | Trivy · Prisma Cloud · Falco |
+| 📱 **Mobile Security** | Apps iOS/Android | DAST mobile · análise de binários |
+| 🔑 **Secret Scanning** | Segredos expostos no código | Gitleaks · TruffleHog |
 
 ---
 
-## Stack de Segurança
+## 🏅 Certificações
 
-**Cloud & CSPM**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Security Hub](https://img.shields.io/badge/AWS_Security_Hub-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![GuardDuty](https://img.shields.io/badge/GuardDuty-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Prisma Cloud](https://img.shields.io/badge/Prisma_Cloud-00AEF3?style=flat-square&logoColor=white)
-![GCP SCC](https://img.shields.io/badge/GCP_Security_Command_Center-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-
-**Vulnerability Management**
-
-![Nessus](https://img.shields.io/badge/Nessus-00B4E0?style=flat-square&logoColor=white)
-![Qualys](https://img.shields.io/badge/Qualys-ED2024?style=flat-square&logoColor=white)
-![Inspector AWS](https://img.shields.io/badge/Inspector_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Acunetix](https://img.shields.io/badge/Acunetix-E01E2A?style=flat-square&logoColor=white)
-
-**SOC & Monitoramento**
-
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![EDR](https://img.shields.io/badge/EDR/XDR-555555?style=flat-square&logoColor=white)
-![DLP](https://img.shields.io/badge/DLP-0078D4?style=flat-square&logoColor=white)
-![IDS/IPS](https://img.shields.io/badge/IDS/IPS-2D6A4F?style=flat-square&logoColor=white)
-
-**Segurança Ofensiva & BAS**
-
-![Cymulate](https://img.shields.io/badge/Cymulate-1B2D3E?style=flat-square&logoColor=white)
-![SafeBreach](https://img.shields.io/badge/SafeBreach-333333?style=flat-square&logoColor=white)
-![Picus](https://img.shields.io/badge/Picus-E63946?style=flat-square&logoColor=white)
-
-**Automação & Infra**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/ECS/EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+| Certificação | Emissor | Verificar |
+|---|---|---|
+| **AWS Certified Security – Specialty** | AWS | [🔗 Credly](https://www.credly.com/badges/713abfc0-ce8c-4fcd-a7bd-b1ee55ce39e1) |
+| **Certified Cloud Security Engineer (CCSE)** | EC-Council | [🔗 Badge](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=wF3JqFYenjvK9yzoorwUodLrjGUidQW99OFB8b8DEXU=) |
+| **Google Cybersecurity** | Google / Coursera | [🔗 Certificado](https://www.coursera.org/account/accomplishments/verify/W5OCXNK3YWKY) |
+| **Breach and Attack Simulation** | Cymulate | [🔗 Credly](https://www.credly.com/badges/3d047e08-3654-485a-b0ba-a0f6c2d8f8f0/linked_in_profile) |
+| **Web API Exploitation** | Sec4US | [🔗 Certificado](https://sec4us.com.br/verify/e7cf740891b85203fac3bf44e3e607af9a50b48743464f8fed936c6277950be7/) |
+| **Perícia Forense** | EC-Council | [🔗 Certificado](https://drive.google.com/file/d/18PsTp3JvZoWCNb_naSUY2ebFbJPHPVNo/view) |
+| **Cloud Security** | Netskope | [🔗 Certificado](https://drive.google.com/file/d/1OjgI-tXO3z69RcVqUlP-MKRpMk_gN6aI/view) |
+| **Forensic Autopsy** | Sleuth Kit Labs | [🔗 Certificado](https://training.sleuthkitlabs.com/certificates/xpz5nkbbfz) |
+| **AWS Certified Cloud Practitioner** | AWS | ✅ |
+| **Containers Fundamentals** | 4Linux | ✅ |
+| **Linux Forensics Distributions** | Cyber5W | ✅ |
+| **McAfee Certified Security – ePO** | McAfee | ✅ |
+| **Ethical Hacking** | EXIN | ✅ |
+| **Tenable.SC** | Tenable | ✅ |
+| **Microsoft Azure** | Microsoft | Az-30100 ✅ |
 
 ---
 
 ## Frameworks & Compliance
 
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=flat-square)
-![NIST CSF](https://img.shields.io/badge/NIST_CSF-1A3A5C?style=flat-square)
+![NIST CSF](https://img.shields.io/badge/NIST_CSF_2.0-1A3A5C?style=flat-square)
 ![CIS Controls](https://img.shields.io/badge/CIS_Controls_v8-2D6A4F?style=flat-square)
 ![ISO 27001](https://img.shields.io/badge/ISO_27001:2022-0072C6?style=flat-square)
 ![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
@@ -129,7 +169,7 @@ Passagem por operações de **SOC**, **BAS (Breach and Attack Simulation)** e **
 
 | Repositório | Descrição |
 |---|---|
-| [🔐 DevSecOps](https://github.com/italoantunes/devsecops) | Pipeline de segurança: SAST, SCA, SBOM, DAST — topologias, checklists e exemplos de esteira CI/CD |
+| [🔐 DevSecOps](https://github.com/italoantunes/devsecops) | Pipeline de segurança: SAST · SCA · SBOM · DAST · IaC — topologias, checklists e exemplos de esteira CI/CD |
 | [🐛 CVE](https://github.com/italoantunes/CVE) | Análise técnica de vulnerabilidades CVE — estudos de caso e mitigações |
 | [📄 pdf_analyze](https://github.com/italoantunes/pdf_analyze) | Automação para extração e análise de dados de segurança em PDFs |
 
