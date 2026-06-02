@@ -31,16 +31,6 @@ Profissional de **Cyber Security** com mais de **6 anos de experiência** em seg
 - **Automação:** redução de ~20h/mês em processos manuais e contribuição para economia de ~R$1,3M na estrutura de Cyber Security
 - **Comunicação de riscos** para diferentes níveis hierárquicos, incluindo diretoria
 
----
-
-### 🏅 Certificações
-
-`AWS Certified Security – Specialty` · `CCSE (EC-Council)`
-
-### 🧭 Frameworks
-
-`MITRE ATT&CK` · `NIST CSF` · `CIS Controls` · `ISO 27001` · `OWASP Top 10` · `BACEN` · `SOC 2`
----
 
 ## 🔐 Cyber Security — Áreas de Atuação
 
