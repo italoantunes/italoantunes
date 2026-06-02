@@ -15,7 +15,7 @@
 
 ## 👋 Sobre mim
 
-Profissional de **Cyber Security** com mais de **6 anos de experiência** em segurança de infraestrutura, cloud e gestão de vulnerabilidades — atuando em ambientes híbridos, corporativos e cloud-native com foco em **redução de riscos** e evolução da maturidade de segurança.
+Profissional de **Cyber Security** com mais de **6 anos de experiência** em segurança de infraestrutura, cloud e gestão de vulnerabilidades, atuando em ambientes híbridos, corporativos e cloud-native com foco em **redução de riscos** e evolução da maturidade de segurança.
 
 ---
 
