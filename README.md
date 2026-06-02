@@ -19,7 +19,7 @@ Profissional de **Cyber Security** com mais de **6 anos de experiência** em seg
 
 ---
 
-### 🔍 O que entrego na prática
+### 🔍 Competências
 
 - **Vulnerability Management end-to-end:** infraestrutura, aplicação, IaC (Checkov/Terraform/CloudFormation), containers (ECS/EKS), serverless, mobile, SAST, DAST, SCA e SBOM — com abordagem Shift-Left ao longo do SSDLC.
 - **Cloud Security:** AWS (GuardDuty, Inspector, CloudTrail, CSPM), GCP (Security Command Center) e Azure (Defender for Cloud)
