@@ -13,23 +13,33 @@
 
 ---
 
-## Sobre mim
+## 👋 Sobre mim
 
-Profissional de Cyber Security com mais de 6 anos de experiência em segurança de infraestrutura, cloud, postura de segurança e gestão de vulnerabilidades.
-Atuando em ambientes híbridos, corporativos e cloud-native com foco em redução de riscos e evolução da maturidade de segurança.
-O que entrego na prática:
-Gestão de vulnerabilidades end-to-end: infraestrutura, aplicação, IaC (Checkov/Terraform/CloudFormation), containers (ECS/EKS), serverless, mobile, SAST, DAST, SCA e SBOM ao longo do ciclo de desenvolvimento (Shift-Left)
-Cloud Security em AWS (GuardDuty, Inspector, CloudTrail, CSPM), GCP (Security Command Center) e Azure (Defender for Cloud)
-Segurança em ambientes Microsoft 365 com Microsoft Purview (DLP, conformidade e proteção de dados)
-Hardening, análise de regras de firewall e gestão de riscos com base em CIS Controls e ISO 27001
-Operação com soluções de Proxy, Firewall, WAF, EDR/XDR, DLP, IPS e BAS
-Forense digital, SOC e conformidade com terceiros
-Comunicação de riscos e indicadores para diferentes níveis hierárquicos
-Liderança operacional de times de até 10 pessoas, assumindo gestão na ausência de superiores
-Automação de processos de segurança com redução de ~20h/mês em atividades manuais e contribuição para economia de ~R$1,3M na estrutura de Cyber Security
-Certificações em destaque: AWS Certified Security – Specialty · CCSE (EC-Council)
-Frameworks: MITRE ATT&CK · NIST CSF · CIS Controls · ISO 27001 · OWASP Top 10 · BACEN · SOC 2
+Profissional de **Cyber Security** com mais de **6 anos de experiência** em segurança de infraestrutura, cloud e gestão de vulnerabilidades — atuando em ambientes híbridos, corporativos e cloud-native com foco em **redução de riscos** e evolução da maturidade de segurança.
 
+---
+
+### 🔍 O que entrego na prática
+
+- **Vulnerability Management end-to-end:** infraestrutura, aplicação, IaC (Checkov/Terraform/CloudFormation), containers (ECS/EKS), serverless, mobile, SAST, DAST, SCA e SBOM — com abordagem Shift-Left ao longo do SDLC
+- **Cloud Security:** AWS (GuardDuty, Inspector, CloudTrail, CSPM), GCP (Security Command Center) e Azure (Defender for Cloud)
+- **Microsoft 365:** Microsoft Purview — DLP, conformidade e proteção de dados
+- **Hardening & Network Security:** análise de regras de firewall, gestão de riscos com base em CIS Controls e ISO 27001
+- **Operações de segurança:** Proxy, Firewall, WAF, EDR/XDR, DLP, IPS e BAS (Breach and Attack Simulation)
+- **SOC, Forense Digital** e conformidade com terceiros
+- **Liderança operacional** de times de até 10 pessoas, com gestão em ausência de superiores
+- **Automação:** redução de ~20h/mês em processos manuais e contribuição para economia de ~R$1,3M na estrutura de Cyber Security
+- **Comunicação de riscos** para diferentes níveis hierárquicos, incluindo diretoria
+
+---
+
+### 🏅 Certificações
+
+`AWS Certified Security – Specialty` · `CCSE (EC-Council)`
+
+### 🧭 Frameworks
+
+`MITRE ATT&CK` · `NIST CSF` · `CIS Controls` · `ISO 27001` · `OWASP Top 10` · `BACEN` · `SOC 2`
 ---
 
 ## 🔐 Cyber Security — Áreas de Atuação
