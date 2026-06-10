@@ -219,7 +219,7 @@ Profissional de **Cyber Security** com mais de **6 anos de experiência** em seg
 |---|---|
 | [🔐 DevSecOps](https://github.com/italoantunes/devsecops) | Pipeline de segurança: SAST · SCA · SBOM · DAST · IaC — topologias, checklists e exemplos de esteira CI/CD |
 | [🐛 CVE](https://github.com/italoantunes/CVE) | Análise técnica de vulnerabilidades CVE — estudos de caso e mitigações |
-| [📄 pdf_analyze](https://github.com/italoantunes/pdf_analyze) | Automação para extração e análise de dados de segurança em PDFs |
+| [📄 security-assessment](https://github.com/italoantunes/security-assessment) | metodologia de avaliação |
 
 ---
 
